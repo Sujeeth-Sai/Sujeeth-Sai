@@ -2,34 +2,38 @@
 
 <br />
 
-I’m **Arigela Sai Sujeeth**. Here are some things I’ve been working on.
+I’m **Arigela Sai Sujeeth**. I build websites and business software through **[LaunchLume](https://launchlume.in/)**, and work on research tools and blockchain experiments.
+
+#### [LaunchLume ↗](https://launchlume.in/)
+
+Our product studio for websites, web apps, and custom business software. Explore client work across architecture, engineering operations, and consumer brands.
+
+<sub>Client projects · Web development · UI/UX design</sub>
+
+---
 
 #### [THREAD AI ↗](https://github.com/Sujeeth-Sai/Thread-AI)
 
-A research tool that brings saved information together, connects sources, and finds contradictions and gaps. Built around the question: how do you keep track of what you’ve already found?
+Save evidence from the web, keep its source attached, and connect it with the rest of your research. Includes a browser extension, an evidence graph, contradiction analysis, and PDF reports.
 
-<sub>AI-assisted research · TypeScript</sub>
+[Read the code and setup guide →](https://github.com/Sujeeth-Sai/Thread-AI#readme)
+
+<sub>TypeScript · React · Supabase · Browser extensions</sub>
 
 ---
 
 #### [FairTicket ↗](https://github.com/Sujeeth-Sai/Fair-Ticket-Monad)
 
-An event ticketing prototype on Monad testnet. Resale price caps live in the smart contract, with wallet-based ownership and check-in.
+A Monad testnet ticketing prototype with resale rules enforced in Solidity. Includes wallet-based ownership, signature-verified gate entry, and contract tests for price limits and proof replay.
 
-<sub>Blockchain experiment · TypeScript · Solidity</sub>
+[Explore the contract and tests →](https://github.com/Sujeeth-Sai/Fair-Ticket-Monad#readme)
 
----
-
-#### [LaunchLume ↗](https://launchlume.in/)
-
-Our product studio for websites, web apps, and custom business software. The site brings together our services and client work, from brand websites to operations dashboards.
-
-<sub>Product studio · Web development · UI/UX design</sub>
+<sub>Solidity · Hardhat · TypeScript · viem</sub>
 
 ---
 
-**Around here:** TypeScript, Kotlin, Solidity, and whatever the next project needs.
+**Working with:** TypeScript, React, Kotlin, Solidity, Supabase, and Cloudflare.
 
-<br />
+Have a website or software project in mind? [See our work at LaunchLume](https://launchlume.in/) or [get in touch](mailto:sujeetharigela14@gmail.com).
 
-[All repositories](https://github.com/Sujeeth-Sai?tab=repositories) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/sai-sujeeth-0b6b21380/) &nbsp; · &nbsp; [Say hello](mailto:sujeetharigela14@gmail.com)
+[All repositories](https://github.com/Sujeeth-Sai?tab=repositories) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/sai-sujeeth-0b6b21380/)
