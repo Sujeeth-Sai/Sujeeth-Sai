@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Hey, I'm Sujeeth.</title>
+  <desc id="desc">A cream and ink typographic nameplate with a hand-drawn orange underline and a gently drifting paper airplane.</desc>
+  <style>
+    .plane{transform-origin:1068px 185px;animation:drift 6s ease-in-out infinite}
+    .underline{stroke-dasharray:1000;stroke-dashoffset:0;animation:draw 9s ease-in-out infinite}
+    @keyframes drift{0%,100%{transform:translate(0,3px) rotate(-4deg)}50%{transform:translate(3px,-5px) rotate(3deg)}}
+    @keyframes draw{0%{stroke-dashoffset:1000}18%,92%{stroke-dashoffset:0}100%{stroke-dashoffset:-1000}}
+    @media(prefers-reduced-motion:reduce){.plane,.underline{animation:none}}
+  </style>
+  <rect width="1200" height="420" fill="#f3efe5"/>
+  <path d="M42 69H1158" stroke="#292b25" stroke-width="1.5"/>
+  <g fill="#292b25" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">
+    <text x="44" y="43">ARIGELA SAI SUJEETH</text>
+    <text x="1156" y="43" text-anchor="end">CODE &amp; SIDE PROJECTS</text>
+  </g>
+  <text x="45" y="119" fill="#66685c" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-style="italic">hey, I'm</text>
+  <text x="38" y="263" fill="#292b25" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="174" letter-spacing="-10">sujeeth.</text>
+  <path class="underline" d="M52 316C250 300 512 309 730 308C695 311 652 315 635 318" fill="none" stroke="#cb502f" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <g class="plane" fill="none" stroke="#cb502f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M988 173L1130 125L1089 242L1053 197L988 173Z"/>
+    <path d="M1130 125L1053 197L1037 226L1039 192L1130 125"/>
+    <path d="M984 211Q942 227 970 252Q991 263 1000 242Q1006 229 992 230Q972 233 941 265" stroke-width="2" stroke-dasharray="5 7"/>
+  </g>
+  <g transform="rotate(-5 1040 290)">
+    <text x="1068" y="292" text-anchor="middle" fill="#66685c" font-family="Georgia, serif" font-size="23" font-style="italic">a work in progress.</text>
+  </g>
+  <path d="M44 341H1156" stroke="#c8c4b8"/>
+  <text x="44" y="383" fill="#292b25" font-family="Arial, Helvetica, sans-serif" font-size="21">Web apps, mobile apps &amp; a few experiments.</text>
+  <path d="M1119 363Q1137 365 1134 390M1124 380L1134 391L1144 379" fill="none" stroke="#cb502f" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
