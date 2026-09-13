@@ -1,4 +1,4 @@
-<img src="assets/hero.svg?v=2" width="100%" alt="Hey, I'm Sujeeth. Web apps, mobile apps and a few experiments." />
+<img src="assets/nameplate.svg" width="100%" alt="Hey, I'm Sujeeth. Web apps, mobile apps and a few experiments." />
 
 <br />
 
