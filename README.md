@@ -20,11 +20,11 @@ An event ticketing prototype on Monad testnet. Resale price caps live in the sma
 
 ---
 
-#### Sri Mallikarjuna
+#### [LaunchLume ↗](https://launchlume.in/)
 
-A pair of web and mobile projects. The website uses TypeScript; the app uses Kotlin.
+Our product studio for websites, web apps, and custom business software. The site brings together our services and client work, from brand websites to operations dashboards.
 
-[Website code ↗](https://github.com/Sujeeth-Sai/Sri_Mallikarjuna_Webiste) &nbsp; / &nbsp; [App code ↗](https://github.com/Sujeeth-Sai/Sri_Mallikarjuna_App)
+<sub>Product studio · Web development · UI/UX design</sub>
 
 ---
 
