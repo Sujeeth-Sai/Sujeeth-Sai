@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="225" viewBox="0 0 1200 225" role="img" aria-labelledby="title">
+<title id="title">Builder's terminal: connect the dots, challenge the rules, make it useful.</title>
+<style>@keyframes blink{50%{opacity:0}}.cursor{animation:blink 1.2s step-end infinite}@keyframes flow{to{stroke-dashoffset:-80}}.flow{animation:flow 4s linear infinite}@media(prefers-reduced-motion:reduce){.cursor,.flow{animation:none}}</style>
+<rect width="1200" height="225" rx="18" fill="#0b1120"/><rect x="1" y="1" width="1198" height="223" rx="17" fill="none" stroke="#26324b"/>
+<circle cx="28" cy="26" r="5" fill="#ff797d"/><circle cx="46" cy="26" r="5" fill="#efc66e"/><circle cx="64" cy="26" r="5" fill="#78f5d0"/>
+<g font-family="ui-monospace,Consolas,monospace" font-size="16"><text x="90" y="31" fill="#71819e" font-size="12">sujeeth@workbench ~</text>
+<text x="30" y="77" fill="#78f5d0">❯</text><text x="55" y="77" fill="#e7edf9">cat builder.config</text>
+<text x="55" y="111" fill="#8190ab">mindset</text><text x="215" y="111" fill="#c4b4ff">"Connect the dots. Challenge the rules."</text>
+<text x="55" y="143" fill="#8190ab">approach</text><text x="215" y="143" fill="#a7d8ff">"Start with a problem. Make it useful."</text>
+<text x="55" y="185" fill="#78f5d0">❯ build what's next</text><rect class="cursor" x="250" y="171" width="9" height="18" fill="#78f5d0"/></g>
+<path d="M830 117H1125" stroke="#26324b" stroke-width="2"/><path class="flow" d="M830 117H1125" stroke="#78f5d0" stroke-width="2" stroke-dasharray="10 70"/>
+<g fill="#0b1120" stroke="#7283a7"><circle cx="850" cy="117" r="12"/><circle cx="980" cy="117" r="12"/><circle cx="1110" cy="117" r="12"/></g>
+<g fill="#a6b3cc" font-family="monospace" font-size="12" text-anchor="middle"><text x="850" y="154">IDEA</text><text x="980" y="154">CODE</text><text x="1110" y="154">IMPACT</text></g>
+</svg>
