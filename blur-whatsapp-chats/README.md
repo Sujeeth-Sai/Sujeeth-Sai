@@ -2,6 +2,10 @@
 
 A privacy layer for WhatsApp Web when you work in shared spaces or share your screen.
 
+![Fictional demo of the full-page WhatsApp cover](screenshot-cover.png)
+
+*Fictional demo. No real conversations are shown.*
+
 **Chrome Web Store status:** Submitted for review. The install link will be added here after Google publishes the extension.
 
 ## What it does
@@ -11,6 +15,10 @@ A privacy layer for WhatsApp Web when you work in shared spaces or share your sc
 - Lets you always blur or hide selected chats.
 - Offers adjustable blur and reveal behavior, a toolbar toggle, an optional visual PIN cover, and idle or scheduled protection.
 - Runs locally with no analytics or developer server.
+
+![Fictional demo of selective chat blur](screenshot-reveal.png)
+
+*Fictional demo of selective blur.*
 
 ## How to use it after release
 
